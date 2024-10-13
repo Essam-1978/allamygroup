@@ -1,0 +1,46 @@
+@media (min-width: 992px) {
+  #companies {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 300px) {
+  #companies {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+
+.row {
+}
+
+#companies {
+  display: flex;
+  flex-direction: row;
+  -ms-flex-wrap: wrap;
+  flex-wrap: nowrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+#arabic-head {
+  font-size: 35px;
+  font-weight: 600;
+  color: #6e6f72;
+  padding-top: 20px;
+}
+
+.navigation-clean {
+  background: #fff;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  color: #333;
+  border-radius: 0;
+  box-shadow: 0px 3px 10px;
+  margin-bottom: 0;
+  border-width: 1px;
+  border-style: none;
+  border-bottom-style: groove;
+}
+

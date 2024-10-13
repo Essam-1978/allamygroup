@@ -1,0 +1,39 @@
+#box-1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/i1.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/i2.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/i3.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    font-family: arial black;
+    font-size: 50px;
+    color: rgb(62,33,33);
+    margin: 0px;
+    text-align: right;
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+

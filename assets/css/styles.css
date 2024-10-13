@@ -1,0 +1,57 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  color: white;
+  display: block;
+  background-color: rgb(71,67,67);
+  padding-bottom: 31px;
+}
+
+.h1, h1 {
+  font-size: 30px;
+  color: rgb(110,111,114);
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+@media (min-width: 300px) {
+  #col11 {
+  }
+}
+
+@media (min-width: 992px) {
+  #style_332 {
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 300px) {
+  #logo {
+    width: 51px;
+    margin-top: -20px;
+  }
+}
+
+@media (min-width: 300px) {
+  #text11 {
+    margin-left: 42px;
+    margin-right: 12px;
+  }
+}
+
+@media (min-width: 992px) {
+  #text11 {
+    font-size: 16px;
+    margin-right: 20px;
+    margin-left: 52px;
+  }
+}
+

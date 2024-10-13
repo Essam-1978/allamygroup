@@ -1,0 +1,289 @@
+.contact-clean {
+  background: #f1f7fc;
+  padding: 80px 0;
+}
+
+@media (max-width:767px) {
+  .contact-clean {
+    padding: 20px 0;
+  }
+}
+
+.contact-clean form {
+  max-width: 480px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 4px;
+  color: #505e6c;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+
+@media (max-width:767px) {
+  .contact-clean form {
+    padding: 30px;
+  }
+}
+
+.contact-clean h2 {
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 36px;
+  color: inherit;
+}
+
+.contact-clean .form-group:last-child {
+  margin-bottom: 5px;
+}
+
+.contact-clean form .form-control {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.05);
+  outline: none;
+  color: inherit;
+  padding-left: 12px;
+  height: 42px;
+}
+
+.contact-clean form .form-control:focus {
+  border: 1px solid #b2b2b2;
+}
+
+.contact-clean form textarea.form-control {
+  min-height: 100px;
+  max-height: 260px;
+  padding-top: 10px;
+  resize: vertical;
+}
+
+.contact-clean form .btn {
+  padding: 16px 32px;
+  border: none;
+  background: none;
+  box-shadow: none;
+  text-shadow: none;
+  opacity: 0.9;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+  line-height: 1;
+  outline: none !important;
+}
+
+.contact-clean form .btn:hover {
+  opacity: 1;
+}
+
+.contact-clean form .btn:active {
+  transform: translateY(1px);
+}
+
+.contact-clean form .btn-primary {
+  background-color: #055ada !important;
+  margin-top: 15px;
+  color: #fff;
+}
+
+@media (min-width: 300px) {
+  .h1, h1 {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 300px) {
+  #style_332 {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 1200px) {
+  #style_332 {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 300px) {
+  #table-1 {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 1200px) {
+  #table-1 {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 300px) {
+  #text-1 {
+    background: rgba(255,255,255,0);
+  }
+}
+
+@media (min-width: 300px) {
+  #coly {
+  }
+}
+
+@media (min-width: 300px) {
+  #logo1 {
+    margin-left: 20px;
+    width: 260px;
+  }
+}
+
+@media (min-width: 300px) {
+  .text-left {
+    font-size: 23px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-left {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .prog {
+    /*display: none;*/
+  }
+}
+
+@media (min-width: 992px) {
+  .prog {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .prog {
+    /*display: none;*/
+  }
+}
+
+@media (min-width: 576px) {
+  .prog {
+    display: block;
+  }
+}
+
+@media (min-width: 576px) {
+  .imagefor.prog {
+    display: none;
+  }
+}
+
+.ttt {
+  font-weight: 600;
+}
+
+@media (min-width: 300px) {
+  .navbar.navbar-light.navbar-expand-md.sticky-top.navigation-clean {
+  }
+}
+
+@media (min-width: 1200px) {
+  #ff {
+    width: 40%;
+  }
+}
+
+@media (min-width: 300px) {
+  .nav.navbar-nav.ml-auto {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 768px) {
+  #aa {
+    font-size: 5px;
+    margin-right: 23%;
+  }
+}
+
+@media (min-width: 992px) {
+  #aa {
+    font-size: 11px;
+    margin-right: 20%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #aa {
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 768px) {
+  #bb {
+    font-size: 9px;
+    margin-left: 15px;
+    margin-right: 35px;
+  }
+}
+
+@media (min-width: 992px) {
+  #bb {
+  }
+}
+
+@media (min-width: 1200px) {
+  #bb {
+    font-size: 14px;
+  }
+}
+
+#aa {
+  /*flex-direction: row-reverse;*/
+}
+
+.navbar-brand {
+  font-family: font-family: system-ui;
+  font-family: system-ui;
+}
+
+@media (min-width: 992px) {
+  .nav.navbar-nav.ml-auto {
+    font-size: 11px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .nav.navbar-nav.ml-auto {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 300px) {
+  #list11 {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 576px) {
+  #list11 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  #style_332 {
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 300px) {
+  #dd {
+  }
+}
+
